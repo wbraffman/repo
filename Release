@@ -1,11 +1,12 @@
-Origin: wbraffman
-Label: wbraffman
+Origin: wbraffman's repo
+Label: wbraffman's repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: cydia/sileo repo
+Description: a sileo/cydia repo
 
 SHA256:
- e82579ad2408e884acd318e27403abc65fa9c18d236d0927eb1f8f4d4d7ac8da 893 Packages.bz2
+ a44dcba0b89f59d395a5e547344e21cdece095161d22417ea3bbbe4f6d1502e4 1075 Packages.bz2
+ ac613ad851112a3dfeb7e30a7723fe75e4aa2da8c327c17b52ce4fccbfbaeb2a 1000 Packages.xz
