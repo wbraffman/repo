@@ -8,5 +8,5 @@ Components: main
 Description: a sileo/cydia repo
 
 SHA256:
- f44b97ca726231d58d1bc76ad48e46f0f8fa63f73fc9a425f21b6e6c64286a10 1254 Packages.bz2
- 82969cbca4a764de44c5e2fa6d147f2a8094de5bcf9901ecb11f600fd839b38f 1176 Packages.xz
+ 0f78fd1e51366792c303ff8c484396fb27ae49392dc1a9161830f3a1cc61c31c 941 Packages.bz2
+ 8d6f7600bfadf0055ff62af08b7cdffd57e32281ba47aa8acd439f30031e818b 880 Packages.xz
